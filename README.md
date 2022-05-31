@@ -1,5 +1,5 @@
 
-# AI $100 Million Revenue Club
+# Data $100 Million Revenue Club
 by [Kenn So](https://www.linkedin.com/in/kenndanielso/) and [Ben Lorica](https://gradientflow.com/blog/) 
 > Blog post: ["The Data Pegacorn Club"](https://gradientflow.com/the-ai-100m-revenue-club)
 
