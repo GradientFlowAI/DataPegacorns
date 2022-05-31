@@ -1,7 +1,7 @@
 
 # Data $100 Million Revenue Club
 by [Kenn So](https://www.linkedin.com/in/kenndanielso/) and [Ben Lorica](https://gradientflow.com/blog/) 
-> Blog post: ["The Data Pegacorn Club"](https://gradientflow.com/the-ai-100m-revenue-club)
+> Blog post: ["The Data Pegacorns"](https://gradientflow.com/the-ai-100m-revenue-club)
 
 A curated list of private **Data** (*data engineering/infrastrcuture*) startups that have **annual revenue of $100 million or more**.
 
