@@ -5,7 +5,7 @@ by [Kenn So](https://www.linkedin.com/in/kenndanielso/) and [Ben Lorica](https:/
 
 A curated list of private **Data** (*data engineering/infrastrcuture*) startups that have **annual revenue of $100 million or more**.
 
-![The Data Pegacorn Club](https://gradientflow.com/wp-content/uploads/2022/04/AI-Pegacorn-club.png)
+![The Data Pegacorn Club](https://gradientflow.com/wp-content/uploads/2022/05/DataPegacorn1.jpg)
 
 If you want to contribute to this list of *flying unicorns* (**Pegacorns**<sup>1</sup>), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-revenue-club) or send a pull request along with the following information: 
 * Company Name and website (URL).
@@ -29,28 +29,15 @@ If you want to contribute to this list of *flying unicorns* (**Pegacorns**<sup>1
 ### Data Integration
 * 🇺🇸 [Databricks](https://databricks.com/) ("All your data, analytics and AI on one platform")
 * 🇺🇸 [Fivetran](https://www.fivetran.com/) ("Centralize your data in minutes not months")
-* 🇨🇳 [Megvii](https://en.megvii.com/) ("Create machines that can see and think")
+* 🇺🇸 [Tealium](https://tealium.com/) ("The Most Trusted Customer Data Platform")
 
-### Transportation
-* 🇺🇸 [Argo AI](https://www.argo.ai/) ("We're building self-driving cars and services to make the world's streets and roadways safe and accessible")
-* 🇺🇸 [Cruise](https://www.getcruise.com/) ("We’re building self-driving vehicles to improve life in our cities")
-* 🇺🇸 [KeepTruckin](https://keeptruckin.com/) ("Everything you need to manage your fleet. All in one place.")
-* 🇨🇳 [Pony.ai](https://pony.ai/) ("Autonomous Mobility Everywhere")
-* 🇺🇸 [Zoox](https://zoox.com/) ("The future is for riders")
+### Governance
+* 🇺🇸 [Alation](https://www.alation.com/) ("Data Intelligence + Human Brilliance")
+* 🇧🇪 [Collibra](https://www.collibra.com/us/en) ("Process should be intuitive, not infuriating")
+* 🇺🇸 [OneTrust](https://www.onetrust.com/) ("Trust Is More Than Just a Compliance Box to Check")
 
-## Other
-### Infrastructure
-* 🇺🇸 [Databricks](https://databricks.com/) ("All your data, analytics and AI on one platform")
-* 🇺🇸🇫🇷 [Dataiku](https://www.dataiku.com/) ("Everyday AI, Extraordinary People")
-* 🇺🇸 [DataRobot](https://www.datarobot.com/) ("AI Cloud is a new approach built for the demands, challenges and opportunities of AI today")
-* 🇺🇸 [Scale](https://scale.com/) ("Better Data. Better AI.")
+### Hardware storage
+* 🇮🇱 [Infinidat](https://www.infinidat.com/en) ("... devoted to helping our clients compete more effectively in the petabyte era")
+* 🇺🇸 [VAST Data]([https://www.getcruise.com/](https://vastdata.com/)) ("Simplicity at scale")
 
-### Hardware
-* 🇬🇧 [Graphcore](https://www.graphcore.ai/) ("World’s most advanced AI system for performance & power efficiency at scale")
-* 🇺🇸 [Lambda](https://lambdalabs.com/) ("GPU compute built for deep learning")
-
-### Services
-* 🇨🇳 [Squirrel AI](http://squirrelai.com/) ("AI-powered K-12 adaptive instructional system and services")
-* 🇺🇸 [Uptake](https://www.uptake.com/) ("Industrial Intelligence that works for you")
----
 [1] A [Pegacorn](https://en.wikipedia.org/wiki/Winged_unicorn) is a flying (winged) unicorn.
