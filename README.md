@@ -5,7 +5,7 @@ by [Kenn So](https://www.linkedin.com/in/kenndanielso/) and [Ben Lorica](https:/
 
 A curated list of private **Data** (*data engineering/infrastrcuture*) startups that have **annual revenue of $100 million or more**.
 
-![The Data Pegacorn Club](https://gradientflow.com/wp-content/uploads/2022/05/DataPegacorn1.jpg)
+![The Data Pegacorn Club](https://gradientflow.com/wp-content/uploads/2022/05/DataPegacorn1a.jpg)
 
 If you want to contribute to this list of *flying unicorns* (**Pegacorns**<sup>1</sup>), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-revenue-club) or send a pull request along with the following information: 
 * Company Name and website (URL).
