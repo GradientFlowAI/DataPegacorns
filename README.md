@@ -12,6 +12,9 @@ If you want to contribute to this list of *flying unicorns* (**Pegacorns**<sup>1
 * Links to references that document annual revenue.
 
 # The Data Pegacorn Club
+### Analytics and BI
+* 🇺🇸 [Sigma Computing](https://www.sigmacomputing.com/) ("Powerful, Fast, and Easy Analytics You Already Know How to Use")
+
 ### Backup
 * 🇺🇸 [Cohesity](https://www.cohesity.com/) ("A modern approach to cyber resilience for hybrid and multicloud environments.")
 * 🇺🇸 [Druva](https://www.druva.com/) ("Your Data. Always Safe. Always Ready.")
