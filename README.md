@@ -26,7 +26,7 @@ If you want to contribute to this list of *flying unicorns* (**Pegacorns**<sup>1
 * 🇺🇸 [DataStax](https://www.datastax.com/) ("The Open Stack for Modern Data Apps")
 * 🇺🇸🇸🇪 [neo4j](https://neo4j.com/) ("Blazing-Fast Graph. Petabyte Scale.")
 * 🇺🇸 [Qumolo](https://qumulo.com/) ("One File Data Platform For All Your Unstructured Data")
-* 🇺🇸🇮🇹 [Redis Labs](https://redis.com/) ("The world’s most loved real-time data platform")
+* 🇺🇸🇮🇹 [Redis](https://redis.com/) ("The world’s most loved real-time data platform")
 * 🇺🇸 [Scale](https://scale.com/) ("Better Data. Better AI.")
 
 ### Data Integration
